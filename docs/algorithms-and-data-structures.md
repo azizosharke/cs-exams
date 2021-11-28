@@ -12,7 +12,8 @@ CS2010
 * [Webcat (Done through College Network)](http://webcat.scss.tcd.ie/cs2012/WebObjects/Web-CAT.woa)
 
 ## Questions by Year
-
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2020/CS/CS2010-1.PDF)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/CS/CS2010-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2010-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2010-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS2010-1.PDF)
